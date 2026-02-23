@@ -1,5 +1,12 @@
 # distributed-task-queue
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/distributed-task-queue/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/distributed-task-queue/actions)
+![License](https://img.shields.io/github/license/yksanjo/distributed-task-queue)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/distributed-task-queue)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/distributed-task-queue)
+
 ## Detailed Description
 
 distributed-task-queue is maintained as an industry-grade software project with production-ready engineering practices.  
